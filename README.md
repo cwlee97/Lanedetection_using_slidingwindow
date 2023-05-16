@@ -66,7 +66,7 @@
     2. **이전 프레임, 현재 프레임을 비교하여 min값을 추출해 나가며 마스크 만들기**
         - 라이다를 흰 색으로 인식하는 것을 보아 동영상 내에서 움직이지 않는 부분은 항상 흰 색(255)을 갖습니다. 따라서 움직이는 부분들과의 min값을 취해서 움직이지 않는 라이다 부분만을 추출하는 작업을 진행하였습니다.
             
-            [2023-05-03 00-50-31.mkv(http://img.youtube.com/vi/watch?v=NHQR2KVs6c0/0.jpg](https://www.youtube.com/watch?v=NHQR2KVs6c0)
+            [2023-05-03 00-50-31.mkv(http://img.youtube.com/vi/NHQR2KVs6c0/0.jpg)](https://www.youtube.com/watch?v=NHQR2KVs6c0)
             
 
 ### 결과
