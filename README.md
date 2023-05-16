@@ -120,7 +120,7 @@ CV_EXPORTS_W Ptr<CLAHE> createCLAHE(double clipLimit = 40.0, Size tileGridSize =
 
 ![스크린샷 2023-05-03 222501.png](README_source/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2023-05-03_222501.png)
 
-[2023-05-03 23-10-04.mkv](README_source/2023-05-03_23-10-04.mkv)
+[![2023-05-03 23-10-04.mkv](http://img.youtube.com/vi/474Rr33ltR8/0.jpg)](https://youtu.be/474Rr33ltR8)
 
 ### 임계값 알고리즘
 
@@ -155,11 +155,11 @@ CV_EXPORTS_W Ptr<CLAHE> createCLAHE(double clipLimit = 40.0, Size tileGridSize =
 
 1. CLAHE - adaptivethreshold vs CLAHE- threshold
     
-    [2023-05-05 00-10-07.mkv](README_source/2023-05-05_00-10-07.mkv)
+    [![2023-05-05 00-10-07.mkv](http://img.youtube.com/vi/Z_Ayszi-NH0/0.jpg)](https://youtu.be/Z_Ayszi-NH0)
     
 2. CLAHE- adaptivethreshold vs CLAHE- threshold + threshold_OTSU
     
-    [2023-05-05 00-07-52.mkv](README_source/2023-05-05_00-07-52.mkv)
+    [![2023-05-05 00-07-52.mkv](http://img.youtube.com/vi/25kEvHoDUUY/0.jpg)](https://youtu.be/25kEvHoDUUY)
     
 
 ### 화이트 노이즈 제거
@@ -226,7 +226,7 @@ CV_EXPORTS_W Ptr<CLAHE> createCLAHE(double clipLimit = 40.0, Size tileGridSize =
 
 ## 결과 영상
 
-[화면 기록 2023-05-05 오후 2.50.37.mov](README_source/%25E1%2584%2592%25E1%2585%25AA%25E1%2584%2586%25E1%2585%25A7%25E1%2586%25AB_%25E1%2584%2580%25E1%2585%25B5%25E1%2584%2585%25E1%2585%25A9%25E1%2586%25A8_2023-05-05_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_2.50.37.mov)
+[![화면 기록 2023-05-05 오후 2.50.37.mov](http://img.youtube.com/vi/gPbcNYfQtk8/0.jpg)](https://youtu.be/gPbcNYfQtk8)
 
 - 첫 슬라이딩 윈도우를 그린 후에는 해당 슬라이딩 윈도우의 x값을 기준으로 좌, 우 마진값 이내에 위치하는 히스토그램에서 차선을 인식하도록 변경하였습니다.
 - 라이다의 mask image를 만들어 기존 이진영상에 subtract 연산을 수행해서 지우는 것으로 라이다를 차선으로 인식하는 문제를 해결했습니다.
