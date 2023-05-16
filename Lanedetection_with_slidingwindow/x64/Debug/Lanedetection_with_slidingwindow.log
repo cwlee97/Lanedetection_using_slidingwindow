@@ -1,0 +1,66 @@
+﻿  sliding_window.cpp
+C:\opencv_4.7.0\build\install\include\opencv2\core.hpp(1188,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\opencv_4.7.0\build\install\include\opencv2\core.hpp(1188,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\opencv_4.7.0\build\install\include\opencv2\core.hpp(1188,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\opencv_4.7.0\build\install\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(41,42): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(43,42): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(46,42): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(47,39): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(48,57): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(48,39): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(76,42): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(78,42): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(81,42): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(82,39): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(83,57): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\sliding_window.cpp(83,39): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+  Lanedetection_with_slidingwindow.vcxproj -> C:\Users\HP\Desktop\ws\cpp\Lanedetection_with_slidingwindow\x64\Debug\Lanedetection_with_slidingwindow.exe
