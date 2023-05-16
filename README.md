@@ -1,8 +1,8 @@
 # Lanedetection_using_slidingwindow
 
 <aside>
-🚗 팀명 : 항상 엔진을 켜둘께
-팀원 : 이찬우, 허정은
+🚗 팀명 : 항상 엔진을 켜둘께<br>
+팀원 : 이찬우, 허정은<br>
 발표자 : 이찬우
 
 </aside>
