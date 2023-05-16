@@ -133,15 +133,15 @@ CV_EXPORTS_W Ptr<CLAHE> createCLAHE(double clipLimit = 40.0, Size tileGridSize =
 - block size만큼 해당 픽셀 주변의 평균, 가우시안을 계산하고, 그 값에 c를 뺀 만큼을 해당 픽셀의 threshold로 지정해 이진화하기 때문에 **block size와 c값을 바꾸면서 테스트 진행**했습니다.
     1. block size = 101, 101 경우 
         
-        [101, 101.mov](https://www.youtube.com/watch?v=ymkxL57l-Vw)
+        [![101, 101.mov](http://img.youtube.com/vi/ymkxL57l-Vw/0.jpg)](https://www.youtube.com/watch?v=ymkxL57l-Vw)
         
     2. block size = 201, 201 경우 
         
-        [201, 201.mov](https://www.youtube.com/watch?v=EjSdB8O8dSo)
+        [![201, 201.mov](http://img.youtube.com/vi/EjSdB8O8dSo/0.jpg)](https://www.youtube.com/watch?v=EjSdB8O8dSo)
         
     3. block size = 301, 301 경우 
         
-        [301, 301.mov](https://www.youtube.com/watch?v=wXdF6P4uBLM)
+        [![301, 301.mov](http://img.youtube.com/vi/wXdF6P4uBLM/0.jpg)](https://www.youtube.com/watch?v=wXdF6P4uBLM)
         
 - block size는 최소 3이상 홀수로 지정해야하고, 구글링을 통해 찾아봤을 때 보통 9-15사이의 값을 지정하는 예시가 많았습니다.
 - c값도 보통 10 이하로 설정을 했기 때문에 그대로 적용해 한번 테스트를 진행했었는데, 너무 엉망진창인 이진화면이 출력되어서, 예시 보고서대로 block size는 (301, 301)로 잡고 c값을 조절해보았습니다.
